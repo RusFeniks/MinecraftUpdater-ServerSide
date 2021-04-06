@@ -1,12 +1,7 @@
 const crypto = require('crypto');
 const fs = require('fs');
 
-let settings = {
-    root: "./client/",
-    syncElements: [
-        "mods",
-    ]
-}
+let settings = JSON.parse(fs.readFileSync("syncOptions.json"));
 
 
 function makePath(_localPath) {

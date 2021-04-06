@@ -1,3 +1,2 @@
 client/*
-!client/.syncOptions
 node_modules/

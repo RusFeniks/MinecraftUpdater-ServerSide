@@ -1,5 +1,5 @@
 # MinecraftUpdater-ServerSide
-Серверная часть от лаунчера обновлений для Minecraft сервера
+Серверная часть от лаунчера обновлений для Minecraft сервера \n
 Клиентская часть: https://github.com/RusFeniks/MinecraftUpdater-ClientSide
 
 Установка:

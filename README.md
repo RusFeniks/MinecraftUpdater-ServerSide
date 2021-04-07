@@ -1,5 +1,6 @@
 # MinecraftUpdater-ServerSide
 Серверная часть от лаунчера обновлений для Minecraft сервера
+Клиентская часть: https://github.com/RusFeniks/MinecraftUpdater-ClientSide
 
 Установка:
 1. Скачать репозиторий и распаковать в папку.
